@@ -285,3 +285,651 @@
 2019/06/04 18:06:36 [notice] 15416#8200: worker process 908 exited with code 0
 2019/06/04 18:06:36 [notice] 15416#8200: exit
 2019/06/04 18:06:36 [notice] 15416#8200: exit
+2019/07/09 14:41:57 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:41:57 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:41:57 [notice] 8872#5040: nginx/1.14.2
+2019/07/09 14:41:57 [notice] 8872#5040: nginx/1.14.2
+2019/07/09 14:41:57 [info] 8872#5040: OS: 260200 build:9200, "", suite:100, type:1
+2019/07/09 14:41:57 [notice] 8872#5040: start worker processes
+2019/07/09 14:41:57 [notice] 8872#5040: start worker processes
+2019/07/09 14:41:57 [notice] 8872#5040: start worker process 7088
+2019/07/09 14:41:57 [notice] 8872#5040: start worker process 7088
+2019/07/09 14:41:58 [notice] 7088#15000: nginx/1.14.2
+2019/07/09 14:41:58 [notice] 7088#15000: nginx/1.14.2
+2019/07/09 14:41:58 [info] 7088#15000: OS: 260200 build:9200, "", suite:100, type:1
+2019/07/09 14:41:58 [notice] 7088#15000: create thread 5940
+2019/07/09 14:41:58 [notice] 7088#15000: create thread 5940
+2019/07/09 14:41:58 [notice] 7088#15000: create thread 10220
+2019/07/09 14:41:58 [notice] 7088#15000: create thread 10220
+2019/07/09 14:41:58 [notice] 7088#15000: create thread 10640
+2019/07/09 14:41:58 [notice] 7088#15000: create thread 10640
+2019/07/09 14:42:07 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:07 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:07 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:08 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:08 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:08 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:42:09 [error] 7088#5940: *2 "D:/cygdrive/e/work/nginx-1.14.2/www/index.html" is not found (3: The system cannot find the path specified), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:07 [info] 7088#5940: *1 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while waiting for request, client: 192.168.4.175, server: 0.0.0.0:80
+2019/07/09 14:43:20 [notice] 1368#11656: signal process started
+2019/07/09 14:43:20 [notice] 8872#5040: reconfiguring
+2019/07/09 14:43:20 [notice] 8872#5040: reconfiguring
+2019/07/09 14:43:20 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:43:20 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:43:20 [notice] 8872#5040: start worker processes
+2019/07/09 14:43:20 [notice] 8872#5040: start worker processes
+2019/07/09 14:43:20 [notice] 8872#5040: start worker process 14420
+2019/07/09 14:43:20 [notice] 8872#5040: start worker process 14420
+2019/07/09 14:43:20 [notice] 14420#11884: nginx/1.14.2
+2019/07/09 14:43:20 [notice] 14420#11884: nginx/1.14.2
+2019/07/09 14:43:20 [info] 14420#11884: OS: 260200 build:9200, "", suite:100, type:1
+2019/07/09 14:43:20 [notice] 14420#11884: create thread 15264
+2019/07/09 14:43:20 [notice] 14420#11884: create thread 15264
+2019/07/09 14:43:20 [notice] 14420#11884: create thread 14772
+2019/07/09 14:43:20 [notice] 14420#11884: create thread 14772
+2019/07/09 14:43:20 [notice] 7088#15000: gracefully shutting down
+2019/07/09 14:43:20 [notice] 7088#15000: gracefully shutting down
+2019/07/09 14:43:20 [notice] 14420#11884: create thread 5960
+2019/07/09 14:43:20 [notice] 14420#11884: create thread 5960
+2019/07/09 14:43:20 [notice] 7088#10220: exiting
+2019/07/09 14:43:20 [notice] 7088#10220: exiting
+2019/07/09 14:43:20 [notice] 7088#5940: exiting
+2019/07/09 14:43:20 [notice] 7088#5940: exiting
+2019/07/09 14:43:20 [notice] 7088#15000: exit
+2019/07/09 14:43:20 [notice] 7088#15000: exit
+2019/07/09 14:43:20 [notice] 8872#5040: worker process 7088 exited with code 0
+2019/07/09 14:43:20 [notice] 8872#5040: worker process 7088 exited with code 0
+2019/07/09 14:43:32 [crit] 14420#15264: *3 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:32 [crit] 14420#15264: *3 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:32 [crit] 14420#15264: *3 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *4 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *4 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *4 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *5 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *5 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *5 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *6 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *6 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *6 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *7 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *7 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *7 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *8 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *8 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *8 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *9 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *9 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *9 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *10 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *10 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *10 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *11 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *11 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *11 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *12 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *12 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *12 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:36 [crit] 14420#15264: *13 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *13 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:36 [crit] 14420#15264: *13 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:37 [crit] 14420#15264: *14 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:37 [crit] 14420#15264: *14 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:37 [crit] 14420#15264: *14 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:43:37 [crit] 14420#15264: *15 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:37 [crit] 14420#15264: *15 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:43:37 [crit] 14420#15264: *15 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:31 [crit] 14420#15264: *16 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:31 [crit] 14420#15264: *16 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:31 [crit] 14420#15264: *16 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:31 [crit] 14420#15264: *17 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:31 [crit] 14420#15264: *17 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:31 [crit] 14420#15264: *17 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:33 [notice] 13388#15172: signal process started
+2019/07/09 14:45:34 [notice] 8872#5040: reconfiguring
+2019/07/09 14:45:34 [notice] 8872#5040: reconfiguring
+2019/07/09 14:45:34 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:45:34 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:45:34 [notice] 8872#5040: start worker processes
+2019/07/09 14:45:34 [notice] 8872#5040: start worker processes
+2019/07/09 14:45:34 [notice] 8872#5040: start worker process 10220
+2019/07/09 14:45:34 [notice] 8872#5040: start worker process 10220
+2019/07/09 14:45:34 [notice] 10220#5940: nginx/1.14.2
+2019/07/09 14:45:34 [notice] 10220#5940: nginx/1.14.2
+2019/07/09 14:45:34 [info] 10220#5940: OS: 260200 build:9200, "", suite:100, type:1
+2019/07/09 14:45:34 [notice] 10220#5940: create thread 7624
+2019/07/09 14:45:34 [notice] 14420#11884: gracefully shutting down
+2019/07/09 14:45:34 [notice] 10220#5940: create thread 7624
+2019/07/09 14:45:34 [notice] 14420#11884: gracefully shutting down
+2019/07/09 14:45:34 [notice] 14420#14772: exiting
+2019/07/09 14:45:34 [notice] 14420#14772: exiting
+2019/07/09 14:45:34 [notice] 10220#5940: create thread 1368
+2019/07/09 14:45:34 [notice] 10220#5940: create thread 1368
+2019/07/09 14:45:34 [notice] 10220#5940: create thread 12328
+2019/07/09 14:45:34 [notice] 10220#5940: create thread 12328
+2019/07/09 14:45:34 [notice] 14420#15264: exiting
+2019/07/09 14:45:34 [notice] 14420#15264: exiting
+2019/07/09 14:45:34 [notice] 14420#11884: exit
+2019/07/09 14:45:34 [notice] 14420#11884: exit
+2019/07/09 14:45:34 [notice] 8872#5040: worker process 14420 exited with code 0
+2019/07/09 14:45:34 [notice] 8872#5040: worker process 14420 exited with code 0
+2019/07/09 14:45:35 [crit] 10220#7624: *18 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:35 [crit] 10220#7624: *18 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:35 [crit] 10220#7624: *18 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:35 [crit] 10220#7624: *19 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:35 [crit] 10220#7624: *19 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:35 [crit] 10220#7624: *19 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:35 [crit] 10220#7624: *20 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:35 [crit] 10220#7624: *20 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:35 [crit] 10220#7624: *20 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:35 [crit] 10220#7624: *21 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:35 [crit] 10220#7624: *21 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:35 [crit] 10220#7624: *21 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:36 [crit] 10220#7624: *22 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:36 [crit] 10220#7624: *22 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:36 [crit] 10220#7624: *22 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:36 [crit] 10220#7624: *23 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:36 [crit] 10220#7624: *23 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:36 [crit] 10220#7624: *23 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:36 [crit] 10220#7624: *24 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:36 [crit] 10220#7624: *24 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:36 [crit] 10220#7624: *24 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:36 [crit] 10220#7624: *25 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:36 [crit] 10220#7624: *25 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:36 [crit] 10220#7624: *25 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:37 [crit] 10220#7624: *26 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:37 [crit] 10220#7624: *26 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:37 [crit] 10220#7624: *26 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:37 [crit] 10220#7624: *27 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:37 [crit] 10220#7624: *27 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:37 [crit] 10220#7624: *27 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:37 [crit] 10220#7624: *28 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:37 [crit] 10220#7624: *28 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:37 [crit] 10220#7624: *28 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:37 [crit] 10220#7624: *29 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:37 [crit] 10220#7624: *29 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:37 [crit] 10220#7624: *29 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:59 [crit] 10220#7624: *30 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:59 [crit] 10220#7624: *30 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:59 [crit] 10220#7624: *30 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:45:59 [crit] 10220#7624: *31 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:59 [crit] 10220#7624: *31 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:45:59 [crit] 10220#7624: *31 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *32 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *32 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *32 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *33 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *33 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *33 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *34 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *34 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *34 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *35 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *35 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *35 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *36 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *36 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *36 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *37 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *37 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *37 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *38 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *38 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *38 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:46:00 [crit] 10220#7624: *39 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *39 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:46:00 [crit] 10220#7624: *39 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:30 [notice] 11752#15340: signal process started
+2019/07/09 14:48:30 [notice] 8872#5040: reconfiguring
+2019/07/09 14:48:30 [notice] 8872#5040: reconfiguring
+2019/07/09 14:48:30 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:48:30 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:48:30 [notice] 8872#5040: start worker processes
+2019/07/09 14:48:30 [notice] 8872#5040: start worker processes
+2019/07/09 14:48:30 [notice] 8872#5040: start worker process 11136
+2019/07/09 14:48:30 [notice] 8872#5040: start worker process 11136
+2019/07/09 14:48:30 [notice] 11136#1940: nginx/1.14.2
+2019/07/09 14:48:30 [notice] 11136#1940: nginx/1.14.2
+2019/07/09 14:48:30 [info] 11136#1940: OS: 260200 build:9200, "", suite:100, type:1
+2019/07/09 14:48:30 [notice] 10220#5940: gracefully shutting down
+2019/07/09 14:48:30 [notice] 11136#1940: create thread 8308
+2019/07/09 14:48:30 [notice] 10220#5940: gracefully shutting down
+2019/07/09 14:48:30 [notice] 11136#1940: create thread 8308
+2019/07/09 14:48:30 [notice] 11136#1940: create thread 15120
+2019/07/09 14:48:30 [notice] 11136#1940: create thread 15120
+2019/07/09 14:48:30 [notice] 10220#1368: exiting
+2019/07/09 14:48:30 [notice] 10220#1368: exiting
+2019/07/09 14:48:30 [notice] 11136#1940: create thread 14956
+2019/07/09 14:48:30 [notice] 11136#1940: create thread 14956
+2019/07/09 14:48:30 [notice] 10220#7624: exiting
+2019/07/09 14:48:30 [notice] 10220#7624: exiting
+2019/07/09 14:48:30 [notice] 10220#5940: exit
+2019/07/09 14:48:30 [notice] 10220#5940: exit
+2019/07/09 14:48:30 [notice] 8872#5040: worker process 10220 exited with code 0
+2019/07/09 14:48:30 [notice] 8872#5040: worker process 10220 exited with code 0
+2019/07/09 14:48:36 [crit] 11136#8308: *40 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:36 [crit] 11136#8308: *40 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:36 [crit] 11136#8308: *40 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:36 [crit] 11136#8308: *41 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:36 [crit] 11136#8308: *41 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:36 [crit] 11136#8308: *41 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:37 [crit] 11136#8308: *42 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:37 [crit] 11136#8308: *42 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:37 [crit] 11136#8308: *42 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:37 [crit] 11136#8308: *43 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:37 [crit] 11136#8308: *43 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:37 [crit] 11136#8308: *43 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:37 [crit] 11136#8308: *44 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:37 [crit] 11136#8308: *44 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:37 [crit] 11136#8308: *44 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:37 [crit] 11136#8308: *45 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:37 [crit] 11136#8308: *45 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:37 [crit] 11136#8308: *45 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:38 [crit] 11136#8308: *46 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:38 [crit] 11136#8308: *46 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:38 [crit] 11136#8308: *46 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:38 [crit] 11136#8308: *47 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:38 [crit] 11136#8308: *47 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:38 [crit] 11136#8308: *47 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *48 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *48 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *48 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *49 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *49 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *49 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *50 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *50 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *50 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *51 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *51 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *51 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *52 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *52 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *52 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *53 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *53 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *53 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *54 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *54 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *54 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *55 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *55 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *55 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *56 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *56 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *56 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:48:39 [crit] 11136#8308: *57 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *57 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:48:39 [crit] 11136#8308: *57 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:11 [notice] 280#4568: signal process started
+2019/07/09 14:55:11 [notice] 8872#5040: reconfiguring
+2019/07/09 14:55:11 [notice] 8872#5040: reconfiguring
+2019/07/09 14:55:11 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:55:11 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:55:11 [notice] 8872#5040: start worker processes
+2019/07/09 14:55:11 [notice] 8872#5040: start worker processes
+2019/07/09 14:55:11 [notice] 8872#5040: start worker process 12520
+2019/07/09 14:55:11 [notice] 8872#5040: start worker process 12520
+2019/07/09 14:55:11 [notice] 12520#8632: nginx/1.14.2
+2019/07/09 14:55:11 [notice] 12520#8632: nginx/1.14.2
+2019/07/09 14:55:11 [info] 12520#8632: OS: 260200 build:9200, "", suite:100, type:1
+2019/07/09 14:55:11 [notice] 12520#8632: create thread 13868
+2019/07/09 14:55:11 [notice] 12520#8632: create thread 13868
+2019/07/09 14:55:11 [notice] 11136#1940: gracefully shutting down
+2019/07/09 14:55:11 [notice] 11136#1940: gracefully shutting down
+2019/07/09 14:55:11 [notice] 12520#8632: create thread 6116
+2019/07/09 14:55:11 [notice] 11136#15120: exiting
+2019/07/09 14:55:11 [notice] 11136#15120: exiting
+2019/07/09 14:55:11 [notice] 12520#8632: create thread 6116
+2019/07/09 14:55:11 [notice] 12520#8632: create thread 4928
+2019/07/09 14:55:11 [notice] 12520#8632: create thread 4928
+2019/07/09 14:55:11 [notice] 11136#8308: exiting
+2019/07/09 14:55:11 [notice] 11136#8308: exiting
+2019/07/09 14:55:11 [notice] 11136#1940: exit
+2019/07/09 14:55:11 [notice] 11136#1940: exit
+2019/07/09 14:55:11 [notice] 8872#5040: worker process 11136 exited with code 0
+2019/07/09 14:55:11 [notice] 8872#5040: worker process 11136 exited with code 0
+2019/07/09 14:55:14 [crit] 12520#13868: *58 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:14 [crit] 12520#13868: *58 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:14 [crit] 12520#13868: *58 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:14 [crit] 12520#13868: *59 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:14 [crit] 12520#13868: *59 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:14 [crit] 12520#13868: *59 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:15 [crit] 12520#13868: *60 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:15 [crit] 12520#13868: *60 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:15 [crit] 12520#13868: *60 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:15 [crit] 12520#13868: *61 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:15 [crit] 12520#13868: *61 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:15 [crit] 12520#13868: *61 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:15 [crit] 12520#13868: *62 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:15 [crit] 12520#13868: *62 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:15 [crit] 12520#13868: *62 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:55:15 [crit] 12520#13868: *63 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:15 [crit] 12520#13868: *63 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:15 [crit] 12520#13868: *63 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:55:57 [error] 12520#13868: *64 CreateFile() "D:\nginx-1.14.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/07/09 14:55:57 [error] 12520#13868: *64 CreateFile() "D:\nginx-1.14.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/07/09 14:55:57 [error] 12520#13868: *64 CreateFile() "D:\nginx-1.14.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/07/09 14:56:17 [info] 12520#13868: *65 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2019/07/09 14:56:17 [info] 12520#13868: *66 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2019/07/09 14:56:20 [crit] 12520#13868: *67 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:56:20 [crit] 12520#13868: *67 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:56:20 [crit] 12520#13868: *67 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:56:20 [crit] 12520#13868: *68 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:56:20 [crit] 12520#13868: *68 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:56:20 [crit] 12520#13868: *68 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:47 [notice] 7688#2724: signal process started
+2019/07/09 14:59:47 [notice] 8872#5040: reconfiguring
+2019/07/09 14:59:47 [notice] 8872#5040: reconfiguring
+2019/07/09 14:59:47 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:59:47 [notice] 8872#5040: using the "select" event method
+2019/07/09 14:59:47 [notice] 8872#5040: start worker processes
+2019/07/09 14:59:47 [notice] 8872#5040: start worker processes
+2019/07/09 14:59:47 [notice] 8872#5040: start worker process 9768
+2019/07/09 14:59:47 [notice] 8872#5040: start worker process 9768
+2019/07/09 14:59:47 [notice] 9768#12808: nginx/1.14.2
+2019/07/09 14:59:47 [notice] 9768#12808: nginx/1.14.2
+2019/07/09 14:59:47 [info] 9768#12808: OS: 260200 build:9200, "", suite:100, type:1
+2019/07/09 14:59:47 [notice] 9768#12808: create thread 15160
+2019/07/09 14:59:47 [notice] 9768#12808: create thread 15160
+2019/07/09 14:59:47 [notice] 9768#12808: create thread 13584
+2019/07/09 14:59:47 [notice] 9768#12808: create thread 13584
+2019/07/09 14:59:47 [notice] 12520#8632: gracefully shutting down
+2019/07/09 14:59:47 [notice] 12520#8632: gracefully shutting down
+2019/07/09 14:59:47 [notice] 9768#12808: create thread 2868
+2019/07/09 14:59:47 [notice] 12520#6116: exiting
+2019/07/09 14:59:47 [notice] 9768#12808: create thread 2868
+2019/07/09 14:59:47 [notice] 12520#6116: exiting
+2019/07/09 14:59:47 [notice] 12520#13868: exiting
+2019/07/09 14:59:47 [notice] 12520#13868: exiting
+2019/07/09 14:59:47 [notice] 12520#8632: exit
+2019/07/09 14:59:47 [notice] 12520#8632: exit
+2019/07/09 14:59:47 [notice] 8872#5040: worker process 12520 exited with code 0
+2019/07/09 14:59:47 [notice] 8872#5040: worker process 12520 exited with code 0
+2019/07/09 14:59:50 [crit] 9768#15160: *69 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:50 [crit] 9768#15160: *69 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:50 [crit] 9768#15160: *69 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:50 [crit] 9768#15160: *70 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:50 [crit] 9768#15160: *70 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:50 [crit] 9768#15160: *70 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *71 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *71 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *71 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *72 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *72 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *72 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *73 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *73 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *73 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *74 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *74 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *74 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *75 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *75 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *75 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *76 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *76 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *76 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *77 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *77 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *77 GetFileAttributesEx() "D:
+ginx-1.14.2\www" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET / HTTP/1.1", host: "192.168.4.175"
+2019/07/09 14:59:51 [crit] 9768#15160: *78 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *78 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 14:59:51 [crit] 9768#15160: *78 CreateFile() "D:
+ginx-1.14.2\www/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 15:01:27 [notice] 6012#13464: signal process started
+2019/07/09 15:01:27 [notice] 8872#5040: reconfiguring
+2019/07/09 15:01:27 [notice] 8872#5040: reconfiguring
+2019/07/09 15:01:27 [notice] 8872#5040: using the "select" event method
+2019/07/09 15:01:27 [notice] 8872#5040: using the "select" event method
+2019/07/09 15:01:27 [notice] 8872#5040: start worker processes
+2019/07/09 15:01:27 [notice] 8872#5040: start worker processes
+2019/07/09 15:01:27 [notice] 8872#5040: start worker process 13624
+2019/07/09 15:01:27 [notice] 8872#5040: start worker process 13624
+2019/07/09 15:01:27 [notice] 13624#13872: nginx/1.14.2
+2019/07/09 15:01:27 [notice] 13624#13872: nginx/1.14.2
+2019/07/09 15:01:27 [info] 13624#13872: OS: 260200 build:9200, "", suite:100, type:1
+2019/07/09 15:01:27 [notice] 9768#12808: gracefully shutting down
+2019/07/09 15:01:27 [notice] 9768#12808: gracefully shutting down
+2019/07/09 15:01:27 [notice] 9768#13584: exiting
+2019/07/09 15:01:27 [notice] 9768#13584: exiting
+2019/07/09 15:01:27 [notice] 13624#13872: create thread 13784
+2019/07/09 15:01:27 [notice] 13624#13872: create thread 13784
+2019/07/09 15:01:27 [notice] 13624#13872: create thread 1424
+2019/07/09 15:01:27 [notice] 13624#13872: create thread 1424
+2019/07/09 15:01:27 [notice] 13624#13872: create thread 13240
+2019/07/09 15:01:27 [notice] 13624#13872: create thread 13240
+2019/07/09 15:01:27 [notice] 9768#15160: exiting
+2019/07/09 15:01:27 [notice] 9768#15160: exiting
+2019/07/09 15:01:27 [notice] 9768#12808: exit
+2019/07/09 15:01:27 [notice] 9768#12808: exit
+2019/07/09 15:01:27 [notice] 8872#5040: worker process 9768 exited with code 0
+2019/07/09 15:01:27 [notice] 8872#5040: worker process 9768 exited with code 0
+2019/07/09 15:01:31 [error] 13624#13784: *79 CreateFile() "D:\www/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 15:01:31 [error] 13624#13784: *79 CreateFile() "D:\www/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
+2019/07/09 15:01:31 [error] 13624#13784: *79 CreateFile() "D:\www/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.4.175, server: 192.168.4.175, request: "GET /favicon.ico HTTP/1.1", host: "192.168.4.175", referrer: "http://192.168.4.175/"
